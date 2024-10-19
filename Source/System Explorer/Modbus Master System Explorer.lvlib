@@ -102,6 +102,10 @@
 					<Item Name="Channel Get Data Type.vi" Type="VI" URL="../SubVIs/Shared Methods/Channel Get Data Type.vi"/>
 					<Item Name="Channel Set DataType.vi" Type="VI" URL="../SubVIs/Shared Methods/Channel Set DataType.vi"/>
 				</Item>
+				<Item Name="Unit ID" Type="Folder">
+					<Item Name="Channel Get Unit ID.vi" Type="VI" URL="../SubVIs/Shared Methods/Channel Get Unit ID.vi"/>
+					<Item Name="Channel Set Unit ID.vi" Type="VI" URL="../SubVIs/Shared Methods/Channel Set Unit ID.vi"/>
+				</Item>
 				<Item Name="Channel Set Mapping.vi" Type="VI" URL="../SubVIs/Shared Methods/Channel Set Mapping.vi"/>
 				<Item Name="Channel Get Mapping.vi" Type="VI" URL="../SubVIs/Shared Methods/Channel Get Mapping.vi"/>
 			</Item>
@@ -153,6 +157,7 @@
 				<Item Name="handle validation errors.vi" Type="VI" URL="../SubVIs/handle validation errors.vi"/>
 				<Item Name="Write Conflicts to Table.vi" Type="VI" URL="../SubVIs/Write Conflicts to Table.vi"/>
 				<Item Name="Throw Veristand Mapping Conflict Errors.vi" Type="VI" URL="../SubVIs/Throw Veristand Mapping Conflict Errors.vi"/>
+				<Item Name="IP Address Validity Check.vi" Type="VI" URL="../SubVIs/IP Address Validity Check.vi"/>
 			</Item>
 			<Item Name="Add Groups.vi" Type="VI" URL="../SubVIs/Add Groups.vi"/>
 			<Item Name="Generate Channels.vi" Type="VI" URL="../SubVIs/Generate Channels.vi"/>
@@ -161,6 +166,7 @@
 			<Item Name="Generate Mapping Error Name.vi" Type="VI" URL="../SubVIs/Generate Mapping Error Name.vi"/>
 			<Item Name="Format Mapping Error.vi" Type="VI" URL="../SubVIs/Format Mapping Error.vi"/>
 			<Item Name="Check All Groups for Conflicts.vi" Type="VI" URL="../SubVIs/Check All Groups for Conflicts.vi"/>
+			<Item Name="Check for Mapping Conflicts.vi" Type="VI" URL="../Check for Mapping Conflicts.vi"/>
 			<Item Name="get type info.vi" Type="VI" URL="../SubVIs/get type info.vi"/>
 			<Item Name="Get VS Direction.vi" Type="VI" URL="../SubVIs/Get VS Direction.vi"/>
 			<Item Name="add diagnostics.vi" Type="VI" URL="../SubVIs/add diagnostics.vi"/>
