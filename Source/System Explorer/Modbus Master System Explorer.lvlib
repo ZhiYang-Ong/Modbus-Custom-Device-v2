@@ -47,7 +47,6 @@
 				<Item Name="DO Coil UI.vi" Type="VI" URL="../DO Coil UI.vi"/>
 				<Item Name="DO Coils Group UI.vi" Type="VI" URL="../DO Coils Group UI.vi"/>
 			</Item>
-			<Item Name="Check for Coil Mapping Conflicts.vi" Type="VI" URL="../SubVIs/Check for Coil Mapping Conflicts.vi"/>
 		</Item>
 		<Item Name="Discrete Inputs" Type="Folder">
 			<Item Name="Add" Type="Folder">
@@ -60,7 +59,6 @@
 				<Item Name="DI Coil UI.vi" Type="VI" URL="../DI Coil UI.vi"/>
 				<Item Name="DI Coils Group UI.vi" Type="VI" URL="../DI Coils Group UI.vi"/>
 			</Item>
-			<Item Name="Check for Discrete Input Mapping Conflicts.vi" Type="VI" URL="../Check for Discrete Input Mapping Conflicts.vi"/>
 		</Item>
 		<Item Name="Holding Registers" Type="Folder">
 			<Item Name="Add" Type="Folder">
@@ -73,7 +71,6 @@
 				<Item Name="AO Reg UI.vi" Type="VI" URL="../AO Reg UI.vi"/>
 				<Item Name="AO Regs Group UI.vi" Type="VI" URL="../AO Regs Group UI.vi"/>
 			</Item>
-			<Item Name="Check for Holding Register Mapping Conflicts.vi" Type="VI" URL="../SubVIs/Check for Holding Register Mapping Conflicts.vi"/>
 		</Item>
 		<Item Name="Input Registers" Type="Folder">
 			<Item Name="Add" Type="Folder">
@@ -86,7 +83,6 @@
 				<Item Name="AI Reg UI.vi" Type="VI" URL="../AI Reg UI.vi"/>
 				<Item Name="AI Regs Group UI.vi" Type="VI" URL="../AI Regs Group UI.vi"/>
 			</Item>
-			<Item Name="Check for Input Register Mapping Conflicts.vi" Type="VI" URL="../SubVIs/Check for Input Register Mapping Conflicts.vi"/>
 		</Item>
 		<Item Name="Shared" Type="Folder">
 			<Item Name="Mapping" Type="Folder">
