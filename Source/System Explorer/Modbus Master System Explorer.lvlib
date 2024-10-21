@@ -191,6 +191,7 @@
 				<Item Name="Make Group.vi" Type="VI" URL="../SubVIs/Make Group.vi"/>
 				<Item Name="Make Unsorted Group.vi" Type="VI" URL="../SubVIs/Make Unsorted Group.vi"/>
 				<Item Name="Create Engine Group from Channel Array.vi" Type="VI" URL="../SubVIs/Create Engine Group from Channel Array.vi"/>
+				<Item Name="sort by unit id.vi" Type="VI" URL="../SubVIs/sort by unit id.vi"/>
 			</Item>
 			<Item Name="ActionVIOnCompile.vi" Type="VI" URL="../SubVIs/ActionVIOnCompile.vi"/>
 		</Item>
