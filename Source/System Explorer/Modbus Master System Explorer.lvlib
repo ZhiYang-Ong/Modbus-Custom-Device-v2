@@ -177,6 +177,7 @@
 			<Item Name="Load Help File.vi" Type="VI" URL="../SubVIs/Load Help File.vi"/>
 			<Item Name="Get CHM Path.vi" Type="VI" URL="../SubVIs/Get CHM Path.vi"/>
 			<Item Name="Conflict Table.ctl" Type="VI" URL="../SubVIs/Conflict Table.ctl"/>
+			<Item Name="Hide Unit ID.vi" Type="VI" URL="../Hide Unit ID.vi"/>
 		</Item>
 		<Item Name="ActionVIOnCompile" Type="Folder">
 			<Item Name="SubVIs" Type="Folder">
